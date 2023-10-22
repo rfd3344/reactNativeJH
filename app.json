@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "test",
-    "slug": "test",
+    "slug": "reactnativejh",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,7 +28,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "da69ba48-2aa5-403e-992f-0d75a5f02e26"
+        "projectId": "f7814848-9c34-45ae-81ee-0f2af0c47015"
       }
     },
     "owner": "rfd3344w"
