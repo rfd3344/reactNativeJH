@@ -12,7 +12,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text h3>Start Using RNE </Text>
+      <Text h3>Start Using test2 </Text>
       <Text style={styles.text}>
         Open up App.tsx to start working on your app!
       </Text>
