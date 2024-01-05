@@ -1,16 +1,11 @@
-import React from "react";
-import { createTheme, ThemeProvider } from "@rneui/themed";
-import Component from "./components/MyComponent";
 
-const theme = createTheme({
-  lightColors: {},
-  darkColors: {},
-});
+import { Text, View } from 'react-native';
 
 export default function App() {
   return (
-    <ThemeProvider theme={theme}>
-      <Component />
-    </ThemeProvider>
+    <View >
+      <Text>Open up App.js to start working on your app!</Text>
+
+    </View>
   );
 }
